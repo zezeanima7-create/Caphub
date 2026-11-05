@@ -10,9 +10,10 @@ Editor gratuito de animações 2D e vídeos com formas geométricas e Countrybal
 - Texto, imagens importadas e fundo configurável.
 - Projetos com várias cenas: adicionar, duplicar e excluir.
 - Camadas por cena, seleção e posicionamento direto no palco.
-- Keyframes para posição, tamanho, rotação e opacidade, com interpolação entre pontos.
+- Keyframes para posição X/Y, tamanho, rotação e opacidade, com interpolação entre pontos.
+- Transições de desvanecimento e deslizamento sobre a cena anterior (além de corte).
 - Transições de entrada de cena: corte, desvanecer e deslizar.
-- Importação de faixas de áudio, ajuste do ponto de início e volume.
+- Importação de faixas de áudio, ajuste do ponto de início e volume; áudio sincronizado na pré-visualização e na exportação quando suportado.
 - Pré-visualização, salvamento automático local e exportação/importação JSON com mídias incorporadas.
 - Exportação de frame PNG e vídeo WebM com áudio quando o navegador oferece suporte a MediaRecorder e captura de áudio.
 
@@ -22,7 +23,7 @@ Abra `index.html` em um navegador moderno. Não precisa de instalação, build, 
 
 1. Adicione objetos pela Biblioteca.
 2. Arraste um objeto no palco para posicioná-lo.
-3. Mova o controle de tempo e ajuste tamanho, rotação ou opacidade.
+3. Mova o controle de tempo e ajuste posição X/Y, tamanho, rotação ou opacidade.
 4. Clique em **Keyframe** para registrar a animação naquele instante.
 5. Crie outras cenas e escolha uma transição de entrada.
 6. Importe áudio, ajuste início e volume e use **Reproduzir** para conferir.
