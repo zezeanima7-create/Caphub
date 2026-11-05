@@ -18,7 +18,7 @@ Editor gratuito de animações 2D e vídeos com formas geométricas e Countrybal
 
 ## Como usar
 
-Abra `index.html` em um navegador moderno. Não precisa de instalação, build, conta ou dependência externa.
+Abra `index.html` em um navegador moderno. Não precisa de instalação, build, conta ou dependência externa. O repositório também contém um fluxo do GitHub Actions para publicar o site no GitHub Pages quando a publicação estiver habilitada nas configurações do repositório.
 
 1. Adicione objetos pela Biblioteca.
 2. Arraste um objeto no palco para posicioná-lo.
